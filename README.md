@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your client-server file transfer application, covering both TCP and UDP methods. You can modify it according to your project structure and details.
-
----
 
 # File Transfer via Network (TCP/UDP)
 
@@ -110,10 +107,3 @@ This project demonstrates a simple client-server architecture for transferring a
 - **Address Already in Use**: If you get this error when running the server, try changing the port number in both the server and client scripts to something different.
 - **Connection Refused**: Make sure the server is running before starting the client. If running on different machines, ensure they are on the same network and firewall settings allow communication through the specified port.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` is designed to give users of your project clear instructions on how to use the file transfer system and how to configure it if necessary. Let me know if you need further modifications!
